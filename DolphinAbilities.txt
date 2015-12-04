@@ -1,0 +1,14 @@
+Dolphin Abilities
+
+If damage device equipped:
+	Basic Attack ( short cooldown)
+	High Damage Attack (long cooldown)
+	Area of Effect Attack (medium cooldown)
+If tank device equipped:
+	Taunt (short cooldown)
+	Armor Up (long cooldown)
+	Shield (medium cooldown)
+If healing device equipped:
+	Single Heal (short cooldown)
+	Team Heal (long cooldown)
+	Drain Life (medium cooldown)

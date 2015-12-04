@@ -1,0 +1,14 @@
+PowerUps/Collectibles
+
+PowerUps:
+Temporary Invincibility
+Damage buff
+Restore health
+Defense buff
+Multi-laser
+Cooldown reset
+Collectibles:
+	Treasure Chests/Gold
+	Pearls/Jewels
+	Customization Gear
+	

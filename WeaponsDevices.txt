@@ -1,0 +1,18 @@
+Weapons/Devices
+
+Damage Weapons:
+Basic Laser -> Super Laser -> Mega Laser -> Turbo Laser
+Tesla Ray
+Sonic Cannon
+Microwave Ray
+Tri-laser
+Plasma Cannon
+Greek Fire
+Tank Devices:
+	Shielding Ray
+	Taunt Ray (needs better name)
+Healing Devices:
+	Health Ray (needs better name)
+Other Devices:
+	Radar
+	Chicken Cannon

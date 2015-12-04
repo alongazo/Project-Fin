@@ -1,0 +1,12 @@
+Levels/Locations
+
+The Shore
+The Reef
+Open Water
+Shipwreck
+Minefield
+Volcano
+Twilight
+The Abyss
+The Trench
+Rock Bottom
